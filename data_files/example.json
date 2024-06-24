@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Geeta",
+        "age": 20,
+        "address": "Lalitpur",
+        "city": "Kathmandu"
+    },
+    {
+        "name": "Shyam",
+        "age": 30,
+        "address": "Lalitpur",
+        "city": "Kathmandu"
+    }
+]
